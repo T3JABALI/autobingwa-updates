@@ -1,13 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/T3JABALI/autobingwa-updates/releases/download/v1.0.9/AutoBingwa-1.0.9.apk",
-  "sha256": "05d69e2be343e06c76f90777f73ffa465d851988c2d784e613348391aeb39722",
-  "notes": [
-    "New Referral dashboard: earn free days when agents you refer buy unlimited tokens",
-    "Auto renew for tokens",
-    "Cleaner top bar and a tidier Transactions page",
-    "Faster, smoother touch response"
-  ],
-  "mandatory": false
+  "versionCode": 11,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/T3JABALI/autobingwa-updates/releases/download/v1.1.0/AutoBingwa-1.1.0.apk",
+  "sha256": "3B0D5F2191B06F581931ECC36BA93060C83AE6AB262B77AC7E88C79AE03139B0",
+  "notes": "New look for USSD settings, Quick Bingwa Offers, and server update.",
+  "mandatory": true
 }
