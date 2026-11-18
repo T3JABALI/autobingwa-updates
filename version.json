@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/T3JABALI/autobingwa-updates/releases/download/v1.1.0/AutoBingwa-1.1.0.apk",
-  "sha256": "3B0D5F2191B06F581931ECC36BA93060C83AE6AB262B77AC7E88C79AE03139B0",
-  "notes": "New look for USSD settings, Quick Bingwa Offers, and server update.",
+  "versionCode": 12,
+  "versionName": "1.5.22",
+  "apkUrl": "https://github.com/T3JABALI/autobingwa-updates/releases/download/v1.5.22/autobingwa-1.5.22.apk",
+  "sha256": "9D5274C10E7BF53005B6976F603A5B5D09030592B78B56B7D8F31F1EEA95F923",
+  "notes": "New menu icons, time window in the offer menu, red price warning, and red sign out.",
   "mandatory": true
 }
