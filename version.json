@@ -1,8 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.5.22",
-  "apkUrl": "https://github.com/T3JABALI/autobingwa-updates/releases/download/v1.5.22/autobingwa-1.5.22.apk",
-  "sha256": "9D5274C10E7BF53005B6976F603A5B5D09030592B78B56B7D8F31F1EEA95F923",
-  "notes": "New menu icons, time window in the offer menu, red price warning, and red sign out.",
-  "mandatory": true
+  "versionName": "1.6.12",
+  "versionCode": 13,
+  "url": "https://github.com/YOURUSER/YOURREPO/releases/download/v1.6.12/app-release.apk",
+  "sha256": "047BB30EB2615BC9E2F46608F9E22C47B5C9189F91CE444FA9129571C9D41783"
 }
