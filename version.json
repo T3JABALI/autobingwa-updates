@@ -1,11 +1,7 @@
 {
-  "versionName": "1.6.12",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/T3JABALI/autobingwa-updates/releases/download/v1.6.12/app-release.apk",
-  "sha256": "047bb30eb2615bc9e2f46608f9e22c47b5c9189f91ce444fa9129571c9d41783",
-  "notes": [
-    "Faster background engine",
-    "Retries when a connection problem or invalid MMI screen appears"
-  ],
+  "versionName": "1.6.22",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/T3JABALI/autobingwa-updates/releases/download/v1.6.22/AutoBingwa-1.6.22.apk",
+  "sha256": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
   "mandatory": false
 }
